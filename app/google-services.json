@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446817451853",
+    "firebase_url": "https://wallet-4e64d-default-rtdb.firebaseio.com",
+    "project_id": "wallet-4e64d",
+    "storage_bucket": "wallet-4e64d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446817451853:android:35ed6797fdbf4b0e484104",
+        "android_client_info": {
+          "package_name": "com.studios.digiwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446817451853-81bvu14a61d1maknrtm92j8l7vn79chp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NYXmB0tmn-OsIe7IPsmrvsqIbazsAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446817451853-81bvu14a61d1maknrtm92j8l7vn79chp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

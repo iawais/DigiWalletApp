@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bank_names">
+        <item>"Select Bank"</item>
+        <item>"Habib Bank Limited (HBL)"</item>
+        <item>"Muslim Commercial Bank (MCB)"</item>
+        <item>"Allied Bank Limited (ABL)"</item>
+        <item>"United Bank Limited (UBL)"</item>
+        <item>"Bank Of Punjab (BOP)"</item>
+        <item>"National Bank Limited (NBP)"</item>
+    </string-array>
+
+    <string-array name="purposes">
+        <item>"Select Purpose"</item>
+        <item>"Education"</item>
+        <item>"Online Payment"</item>
+        <item>"Miscellaneous"</item>
+        <item>"Others"</item>
+    </string-array>
+
+    <string-array name="bills">
+        <item>"Select Service"</item>
+        <item>"LESCO"</item>
+        <item>"SNGPL"</item>
+        <item>"WASA"</item>
+    </string-array>
+
+    <string-array name="networks">
+        <item>"Select Network"</item>
+        <item>"Mobilink (Jazz/Warid)"</item>
+        <item>"Zong"</item>
+        <item>"Ufone"</item>
+        <item>"Telenor"</item>
+    </string-array>
+
+</resources>
